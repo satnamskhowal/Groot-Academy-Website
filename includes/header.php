@@ -77,7 +77,7 @@
                 <ul class="topbar-contact">
                   <li>
                     <i class="flaticon-email"></i>
-                    <a href="mailto:info@grootsoftware.com">info@grootsoftware.com</a>
+                    <a href="mailto: info@grootacademy.com"> info@grootacademy.com</a>
                   </li>
                   <li>
                     <i class="flaticon-call"></i>
@@ -85,7 +85,7 @@
                   </li>
                   <li>
                     <i class="flaticon-location"></i>
-                    48, Sultan Nagar, Jaipur, Rajasthan 302019
+                    73/34, Paramhans Marg, Mansarovar, Jaipur
                   </li>
                 </ul>
               </div>
@@ -94,7 +94,7 @@
                   <ul>
                     <li class="opening"> <em><i class="flaticon-clock"></i> 08:00am-9:00pm</em> </li>
                     <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://twitter.com/grootsoftwa" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://twitter.com/grootsoftware" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
                     <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -109,7 +109,7 @@
         <!-- Menu Start -->
         <nav class="rizwan">
           <div class="brand-and-icon">
-            <a href="index.php" class="navbar-brand"><img class="logo-img" src="assets/images/logo-dark.png" /></a>
+            <a href="index.php" class="navbar-brand"><img class="logo-img" src="assets/images/groot-horizontal-logo-transparent.png" /></a>
             <button type="button" class="navbar-toggler">
               <i class="fas fa-bars"></i>
             </button>
@@ -118,7 +118,7 @@
           <div class="navbar-collapse">
             <ul class="navbar-bar">
               <li>
-                <a href="#">Home</a>
+                <a href="./index.php">Home</a>
               </li>
               
               
@@ -129,10 +129,10 @@
               </li>
              
               <li>
-                <a href="#">About</a>
+                <a href="./about-us.php">About</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="contact-us.php">Contact Us</a>
               </li>
             </ul>
           </div>

@@ -5,13 +5,14 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                             <div class="footer-logo mb-30">
-                                <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
+                                <a href="index.php"><img src="assets/images/groot-horizontal-logo-transparent.png" alt=""></a>
                             </div>
-                              <div class="textwidget pb-30"><p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
+                              <div class="textwidget pb-30"><p>We are a next generation IT training institute.
+We provide all kinds of industrial training in computer science technologies</p>
                               </div>
                               <ul class="footer-social md-mb-30">  
                                   <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="https://twitter.com/grootsoftwa" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://twitter.com/grootsoftware" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
                                             <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                             <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -19,13 +20,13 @@
                               </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
-                            <h3 class="widget-title">IT Services</h3>
+                            <h3 class="widget-title">Our Courses</h3>
                             <ul class="site-map">
-                                <li><a href="software-development.php">Software Development</a></li>
-                                <li><a href="web-development.php">Web Development</a></li>
-                                <li><a href="analytic-solutions.php">Analytic Solutions</a></li>
-                                <li><a href="web-development.php">Cloud and DevOps</a></li>
-                                <li><a href="web-development.php">Product Design</a></li>
+                                <li><a href="./course_aws.php">AWS</a></li>
+                                <li><a href="http://localhost:81/Groot-Academy-Website/course_salesforce_admin(online).php">Salesforce Admin ( Online )</a></li>
+                                <li><a href="http://localhost:81/Groot-Academy-Website/course_aws_information_practices_xi.php">Information practices XI</a></li>
+                                <li><a href="http://localhost:81/Groot-Academy-Website/courses_machine_learning.php">Machine Learning</a></li>
+                                <li><a href="http://localhost:81/Groot-Academy-Website/course_core_java.php">Core Java</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
@@ -33,7 +34,7 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc"> 48, Sultan Nagar, Jaipur, Rajasthan 302019 </div>
+                                    <div class="desc">  73/34, Paramhans Marg, Mansarovar, Jaipur </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
@@ -44,7 +45,7 @@
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:info@grootsoftware.com">info@grootsoftware.com</a>
+                                        <a href="mailto: info@grootacademy.com"> info@grootacademy.com</a>
                                     </div>
                                 </li>
                                 <li>
