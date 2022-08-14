@@ -11,7 +11,7 @@
                         </p>
                         <ul class="banner-btn">
                             <li><a class="readon discover" href="about.php">Discover More</a></li>
-                            <li>
+                            <!-- <li>
                                 <div class="rs-videos">
                                     <div class="animate-border white-color">
                                         <a class="popup-border popup-videos" href="https://www.youtube.com/watch?v=YLN1Argi7ik">
@@ -19,7 +19,7 @@
                                         </a>
                                     </div>
                                 </div> 
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
             <!-- Banner Section End -->
 
             <!-- Services Section Start -->
-            <div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
+            <!-- <div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Services</span>
@@ -89,7 +89,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Services Section End -->
 
             <!-- About Section Start -->
@@ -159,7 +159,7 @@
             <!-- Progress Section End -->
 
             <!-- Services Section Start -->
-            <div class="rs-services style4 modify1 gray-color pt-110 pb-120 md-pt-75 md-pb-40 sm-pb-70">
+            <!-- <div class="rs-services style4 modify1 gray-color pt-110 pb-120 md-pt-75 md-pb-40 sm-pb-70">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Our Latest Services</span>
@@ -266,8 +266,114 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Services Section End -->
+
+            <!-- things to learn starts here -->
+            <div class="rs-services style4 modify1 gray-color pt-110 pb-120 md-pt-75 md-pb-40 sm-pb-70">
+                <div class="container">
+                    <div class="sec-title2 text-center mb-45">
+                        <span class="sub-text">Our Latest courses</span>
+                        <h2 class="title">
+                           Preparing for your success, we provide IT assistance
+                        </h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 mb-20">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/1.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">Python</a></h2>
+                                    <p class="desc">
+                                    Python is a high-level, interpreted, general-purpose programming language    </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-20">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/2.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">Java</a></h2>
+                                    <p class="desc">
+                                    Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.     </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 mb-20">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/3.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">Salesforce</a></h2>
+                                    <p class="desc">
+                                    It provides customer relationship management software and applications focused on sales, customer service, marketing automation, analytics, and application development.      </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/4.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">Big Data</a></h2>
+                                    <p class="desc">
+                                    Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software.         </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/5.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">C++</a></h2>
+                                    <p class="desc">
+                                    C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".      </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <img src="assets/images/services/style5/6.png" alt="">
+                                </div>
+                                <div class="services-content">
+                                    <h2 class="title"><a href="web-development.php">Full Stack Development</a></h2>
+                                    <p class="desc">
+                                 A course where an average learver can learn and build a basic website using HTML, CSS, JS and PHP. 
+                                  </p>
+                                    <div class="services-btn2">
+                                        <a href="web-development.php">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- things to learn end here -->
 
             <!-- Call Action Section Start -->
             <div class="rs-call-action bg8 pt-120 pb-120 md-pt-75 md-pb-80">
@@ -294,7 +400,7 @@
                                 <div class="sec-title mb-30">
                                     <div class="sub-text new">How We Works</div>
                                     <h2 class="title title4 white-color pb-20">
-                                        How braintech assist your business
+                                        How groot academy assist your business
                                     </h2>
                                     <div class="desc white-color">
                                         Bring to the table win-win survival strategies to ensure dotted proactive domination. At the end of the day, on going forward, anew normal that has evolved from the generation on streamlined.
@@ -367,14 +473,14 @@
             <!-- Process Section End -->
 
             <!-- Case Study Section Start -->
-            <div class="rs-case-study primary-background">
+            <!-- <div class="rs-case-study primary-background">
                 <div class="row margin-0 align-items-center">
                     <div class="col-lg-4 padding-0">
                         <div class="case-study bg12 mod">
                             <div class="sec-title2 mb-30">
                                 <div class="sub-text white-color">Case Study</div>
                                 <h2 class="title testi-title white-color pb-20">
-                                    How braintech assist your business
+                                    How groot academy assist your business
                                 </h2>
                                 <div class="desc-big">
                                    Bring to the table win-win survival strategies to dotted proactive domination. At the end of the going forward, a new normal that has evolved generation.
@@ -384,7 +490,7 @@
                     </div>
                     <div class="col-lg-8 padding-0">
                         <div class="case-study-wrap">
-                            <!-- Project Section Start -->
+                            
                             <div class="rs-project style3 modify1 mod md-pt-0">
                                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                                     <div class="project-item">
@@ -455,11 +561,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Project Section End -->
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Case Study Section Start -->
 
             <!-- Team Section Start -->
@@ -620,9 +725,9 @@
                         <div class="row align-items-center">
                             <div class="col-lg-5">
                                 <div class="sec-title mb-60">
-                                    <div class="sub-text new">Client's Review</div>
+                                    <div class="sub-text new">Student's Review</div>
                                     <h2 class="title title4 white-color pb-20">
-                                        What do people praise about braintech?
+                                        See what our satisfied students are saying about us
                                     </h2>
                                 </div>
                             </div>
@@ -697,7 +802,7 @@
             <!-- Testimonial Section End -->
 
             <!-- Pricing section start -->
-            <div class="rs-pricing style2  modify1  gray-color pt-110 pb-150 md-pt-75 md-pb-80">
+            <!-- <div class="rs-pricing style2  modify1  gray-color pt-110 pb-150 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-30">
                         <div class="sub-text">Pricing</div>
@@ -792,11 +897,11 @@
                        </div>
                    </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Pricing section end -->
 
             <!-- Technology Section Start -->
-            <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
+            <!-- <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text white-color">Technology Index</span>
@@ -897,7 +1002,7 @@
                        </div>
                     </div>
                 </div>  
-            </div>
+            </div> -->
             <!-- Technology Section End -->
 
 
