@@ -12,7 +12,7 @@
                     <div class="d-flex flex-column align-items-center">
                         
                                 <div style="width:300px">
-                                    <h5 class=""><a href="web-development.php">Salesforce Admin & App Builder</a></h5>
+                                    <h5 class=""><a href="web-development.php">Core Java</a></h5>
                                     
                                 </div>
 

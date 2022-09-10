@@ -1,3 +1,102 @@
 .logo-img {
 		width: 186px;
 }
+
+
+.e-container {
+	display: flex;
+	justify-content: space-around;
+	background: linear-gradient(45deg, blue, #000073);
+	padding: 4%;
+	flex-wrap: wrap;
+  
+  }
+  
+  .main-first {
+	color: white ;
+	width: 50%;
+	min-width: 375px;
+  }
+
+  .main-first h2{
+	color: white !important;
+  }
+  
+  .main-first ul {
+	font-size: 20px;
+	line-height: 40px;
+  }
+  
+  .main-second {
+	width: 40%;
+	min-width: 375px;
+  }
+  
+  .main-second form {
+	background-color: white;
+	border-radius: 10px;
+	padding: 30px;
+  
+	
+  }
+  
+  .main-second form input {
+	display: block;
+	width: 90%;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	padding: 3% 5%;
+	border: none;
+	background-color: rgba(243, 243, 243, 0.66);
+	font-size: 15px;
+	border-radius: 5px;
+  
+  }
+  
+  .main-second ::placeholder {
+	color: #b4b4b4;
+  
+  }
+  
+  .main-second form label {
+	font-weight: 500;
+  }
+  
+  .star {
+	color: red;
+  }
+  
+  .main-second h3 {
+	text-align: center;
+	padding: 0 20%;
+	font-weight: 500;
+  
+  }
+  
+  .main-second p {
+	font-size: 14px;
+	color: rgb(195, 195, 195);
+  }
+  
+  .main-second button {
+	padding: 10px 30px;
+	border: none;
+	background-color: rgb(171, 171, 171);
+	color: white;
+	border-radius: 5px;
+	font-weight: 100;
+  }
+  
+  .main-second a {
+	text-decoration: none;
+	color: rgb(142, 142, 255);
+  }
+  
+  @media (max-width:1000px) {
+  
+	.e-container {
+		flex-direction: column-reverse;
+		align-content: center;
+  
+	}
+  }

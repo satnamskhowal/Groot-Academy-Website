@@ -4,13 +4,12 @@
             <div class="rs-banner style4">
                 <div class="container">
                     <div class="banner-content">
-                        <span class="sub-title">Technology & It Solutions </span>
-                       <h1 class="title">Excellent IT services for your success</h1>
+                        <!-- <span class="sub-title">Technology & It Solutions </span> -->
+                       <h1 class="title">Best skill-oriented IT training Institute</h1>
                         <p class="desc">
-                            We are Leading Technology Solutions Providing Company all over the world doing over 40 years.
-                        </p>
+                        Gain the programming knowledge in your favorite technology under the mentorship of industry-experts        </p>
                         <ul class="banner-btn">
-                            <li><a class="readon discover" href="about.php">Discover More</a></li>
+                            <!-- <li><a class="readon discover" href="about.php">Discover More</a></li> -->
                             <!-- <li>
                                 <div class="rs-videos">
                                     <div class="animate-border white-color">
@@ -100,11 +99,10 @@
                             <div class="sec-title2 mb-30">
                                 <div class="sub-text">Our Company</div>
                                 <h2 class=" title title3 pb-20">
-                                    We’ve been triumphing all these 40 years.
-                                </h2>
+                                Groot Academy 
+   </h2>
                                 <div class="desc desc2">
-                                    Bring to the table win-win survival strategies done to ensure dotted proactive domination. Customers we can for done working a new normal that has evolved from generation on the runway heading towards a streamlined. Now you will be able to insert any section template to your live site instantly.
-                                </div>
+                                We are the modern-day IT training institute, dedicated to deliver the best coding knowledge to today’s passionate and innovative programming aspirants like yourself. Our programming courses not only make you job-ready but we also work upon your creative thinking. Students here don’t learn how to be coding machines, but actually how to get their creative juices flowing, stand out in the crowd and make a productive difference.      </div>
                                 <div class="btn-part mt-40">
                                     <a class="readon discover more" href="contact.php">Learn More</a>
                                 </div>
@@ -131,26 +129,26 @@
                     <div class="row">
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="95" data-scale-color="#ffb400"><span>95%</span></div>
-                               <h2 class="title">Satisfied Clients</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>1000+</span></div>
+                               <h2 class="title">Trained Students</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="80" data-scale-color="#ffb400"><span>80%</span></div>
-                               <h2 class="title">Success of Works</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>12+</span></div>
+                               <h2 class="title">Programming Courses</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="76" data-scale-color="#ffb400"><span>76%</span></div>
-                               <h2 class="title">Works on Hand</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>10+</span></div>
+                               <h2 class="title">Years of Experience</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3">
                            <div class="box">
-                               <div class="chart" data-percent="88" data-scale-color="#ffb400"><span>88%</span></div>
-                               <h2 class="title">Expert Team Member</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>4</span></div>
+                               <h2 class="title">Expert Mentors</h2>
                            </div> 
                         </div>
                     </div>
@@ -275,8 +273,8 @@
                     <div class="sec-title2 text-center mb-45">
                         <span class="sub-text">Our Latest courses</span>
                         <h2 class="title">
-                           Preparing for your success, we provide IT assistance
-                        </h2>
+                        Ready to be a successful Programmer?
+      </h2>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 mb-20">
@@ -285,9 +283,11 @@
                                     <img src="assets/images/services/style5/1.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Python</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Front End Development </a></h2>
                                     <p class="desc">
-                                    Python is a high-level, interpreted, general-purpose programming language    </p>
+                                        Interested in designing part? How the website or application look? UI/UX? 
+                                        Then this advanced development course is for you.
+                                    </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -300,9 +300,11 @@
                                     <img src="assets/images/services/style5/2.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Java</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Full Stack Development</a></h2>
                                     <p class="desc">
-                                    Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.     </p>
+                                        Want to be the Know-it-all person at the IT company? 
+                                        Full stack developer is what you want to be. Here you go.
+                                    </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -315,9 +317,11 @@
                                     <img src="assets/images/services/style5/3.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Salesforce</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Back End Development</a></h2>
                                     <p class="desc">
-                                    It provides customer relationship management software and applications focused on sales, customer service, marketing automation, analytics, and application development.      </p>
+                                        Enjoy playing with Sql Queries or managing databases? 
+                                        Backend development is the Behind-the-Scenes of websites and apps.
+                                    </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -330,9 +334,11 @@
                                     <img src="assets/images/services/style5/4.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Big Data</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Data Structure and algorithms</a></h2>
                                     <p class="desc">
-                                    Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software.         </p>
+                                    Explore Algorithms and data structures for something that’s beyond coding. 
+Algos play a crucial role in the digital development field and so could you if you know them
+         </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -345,9 +351,11 @@
                                     <img src="assets/images/services/style5/5.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">C++</a></h2>
+                                    <h2 class="title"><a href="web-development.php">C/C++</a></h2>
                                     <p class="desc">
-                                    C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".      </p>
+                                    Sounds like the basics right? They indeed are the fundamentals of programming. 
+But don't just judge a book by its cover. Wait until you explore the applications of C and C++.
+   </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -360,10 +368,11 @@
                                     <img src="assets/images/services/style5/6.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Full Stack Development</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Advance Java</a></h2>
                                     <p class="desc">
-                                 A course where an average learver can learn and build a basic website using HTML, CSS, JS and PHP. 
-                                  </p>
+                                    They say, “if you can code in Java, you can learn to code in any other language”.
+Advanced java will help you explore the programming world closely while you will be creating some exciting web projects in java.
+     </p>
                                     <div class="services-btn2">
                                         <a href="web-development.php">Read More</a>
                                     </div>
@@ -371,8 +380,14 @@
                             </div>
                         </div>
                     </div>
+                    <div class="btn-part mt-40 d-flex justify-content-center">
+                        <a class="readon discover more" href="courses.php">See all courses</a>
+                    </div>
                 </div>
             </div>
+
+         
+                           
             <!-- things to learn end here -->
 
             <!-- Call Action Section Start -->
@@ -380,11 +395,12 @@
                 <div class="container">
                     <div class="sec-title2 text-center">
                         <span class="sub-text white-color">Let’s Talk</span>
-                        <h2 class="title title4 white-color">
-                           We run add kinds of IT services that grow your success
-                        </h2>
+                        <h4 class="white-color">
+                        Can’t decide which programming technology you should choose? <br/>
+It’s okay. Let’s conclude it together.
+   </h4>
                         <div class="call-btn mt-30">
-                            <a class="readon discover started" href="contact.php">Get Started</a>
+                            <a class="readon discover started" href="contact.php">Contact Us</a>
                         </div>
                     </div> 
                 </div>
@@ -398,13 +414,12 @@
                         <div class="col-lg-5">
                             <div class="process-wrap bg9">
                                 <div class="sec-title mb-30">
-                                    <div class="sub-text new">How We Works</div>
+                                    <!-- <div class="sub-text new">How We Works</div> -->
                                     <h2 class="title title4 white-color pb-20">
-                                        How groot academy assist your business
-                                    </h2>
+                                    Why join Groot Academy?
+     </h2>
                                     <div class="desc white-color">
-                                        Bring to the table win-win survival strategies to ensure dotted proactive domination. At the end of the day, on going forward, anew normal that has evolved from the generation on streamlined.
-                                    </div>
+                                    At Groot Academy, our students enjoy multiple benefits along with the best programming courses. Our mentors will offer a revolutionary experience to every individual that would help you get closer to success.          </div>
                                     <div class="btn-part mt-40">
                                         <a class="readon discover started" href="contact.php">Learn More</a>
                                     </div>
@@ -420,7 +435,8 @@
                                                 01
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Discussion</h3>
+                                                <h3 class="title">Flexible Batches
+</h3>
                                             </div>
                                             <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
                                         </div>
@@ -433,7 +449,7 @@
                                                 02
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Testing & Trying</h3>
+                                                <h3 class="title">All-Practical Classes</h3>
                                             </div>
                                             <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
                                         </div>
@@ -446,7 +462,7 @@
                                                 03
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Ideas & Concepts</h3>
+                                                <h3 class="title">Real Projects</h3>
                                             </div>
                                             <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
                                         </div>
@@ -459,7 +475,7 @@
                                                 04
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Execute & install</h3>
+                                                <h3 class="title">Placement Assistance</h3>
                                             </div>
                                             <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
                                         </div>
@@ -568,7 +584,7 @@
             <!-- Case Study Section Start -->
 
             <!-- Team Section Start -->
-            <div id="rs-team" class="rs-team style2 pt-110 pb-120 md-pt-75 md-pb-80">
+            <!-- <div id="rs-team" class="rs-team style2 pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container"> 
                     <div class="sec-title2 text-center mb-30">
                         <div class="sub-text">Team</div>
@@ -715,11 +731,11 @@
                         </div>
                      </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Team Section End -->
 
             <!-- Testimonial Section Start -->
-            <div class="rs-testimonial">
+            <div class="rs-testimonial mb-5">
                 <div class="container">
                     <div class="testi-effects-layer bg10">
                         <div class="row align-items-center">
@@ -1007,7 +1023,7 @@
 
 
             <!-- Blog Section Start -->
-            <div id="rs-blog" class="rs-blog pt-110 pb-120 md-pt-75 md-pb-80">
+            <!-- <div id="rs-blog" class="rs-blog pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container">  
                     <div class="sec-title2 text-center mb-30">
                         <span class="sub-text">Blogs</span>
@@ -1123,7 +1139,7 @@
                         </div>
                      </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Blog Section End -->
             
             <!-- Partner Start -->

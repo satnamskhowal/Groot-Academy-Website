@@ -4,7 +4,7 @@
 <head>
   <!-- meta tag -->
   <meta charset="utf-8">
-  <title>Groot Software</title>
+  <title>Groot Academy</title>
   <meta name="description" content="">
   <!-- responsive tag -->
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -38,7 +38,7 @@
   <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
   <link rel="stylesheet" type="text/css" href="assets/css/menu.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="/assets/css/new.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/new.css">
   <style>
     .logo-img {
       width: 186px;
@@ -47,6 +47,7 @@
     .menu_thumbnail {
       width: 70% !important;
     }
+    
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -93,11 +94,11 @@
                 <div class="toolbar-sl-share">
                   <ul>
                     <li class="opening"> <em><i class="flaticon-clock"></i> 08:00am-9:00pm</em> </li>
-                    <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://twitter.com/grootsoftware" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://www.facebook.com/GrootAcademy/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/grootacademy" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
-                    <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/thegrootacademy/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/grootacademy/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://stackoverflow.com/c/grootsoftware/" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
                   </ul>
                 </div>
@@ -126,6 +127,9 @@
              
               <li>
                 <a href="courses.php">Courses</a>
+              </li>
+              <li>
+                <a href="enroll.php">Enroll Now</a>
               </li>
              
               <li>
