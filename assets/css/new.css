@@ -131,9 +131,89 @@
 	border-bottom-right-radius: 10px;
 	border: 1px dotted #dadada;
 	border-top: none;
-
 }
+
 .contentAcc ul li {
 	border-bottom: 1px dotted #dadada;
 	padding-top: 10px;
+	font-size: 11px;
+
+}
+
+.contentAcc h2 {
+	font-weight: 500;
+	font-size: 11px;
+	/* box-shadow: 0 -10px 30px -20px rgb(148, 148, 148); */
+}
+
+.contentAcc {
+	width: 60%;
+}
+
+.q_form {
+	width: 37%;
+	background-color: rgba(231, 231, 231, 0.573);
+	height: fit-content;
+	padding: 40px;
+	color: white;
+	margin-top: 10px;
+	border-left: 3px double blue;
+	border-right: 3px double blue;
+}
+
+.q_form input {
+	border: none;
+	border-radius: 1px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 15px;
+	font-weight: 100;
+	color: blue !important;
+}
+
+.q_form input::placeholder {
+	font-size: 15px;
+	font-weight: 100;
+}
+
+.contentAcc .down_arrow {
+	float: right;
+	transform: rotate(180deg);
+	transition: all 2s;
+}
+
+.q_form button{
+	border: none;
+	border-top: 3px double #b3b3ff;
+	border-bottom: 3px double #b3b3ff;
+	border-radius: 1px;
+	padding: 10px;
+	width: 100%;
+	background-color: white;
+	margin: auto;
+
+}
+
+.course_detail{
+	padding: 50px 100px;
+	display: flex;
+}
+
+.cr_detail_sec{
+	width: 70%;
+}
+
+.cr_query{
+	width: 30%;
+}
+.cr_detail_sec{
+	padding: 30px;
+}
+.course_detail h4{
+	border-left: 10px double greenyellow;
+	background: linear-gradient(to right, blue , lightblue) ;
+	color: white;
+	padding: 5px 5px;
+	border-top-right-radius: 10px ;
+	border-bottom-right-radius: 10px ;
 }
