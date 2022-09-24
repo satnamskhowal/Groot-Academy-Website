@@ -3,18 +3,178 @@
 
 
 
-<!-- Courses section starts-->
-<div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
+
+
+<!--old Courses section starts-->
+
+
+<div class="rs-services style4 modify1 gray-color pt-40 md-pb-40 sm-pb-70">
     <div class="container">
         <div class="sec-title2 text-center mb-45">
             <span class="sub-text">Our Latest courses</span>
-            <h2 class="title">
+            <h3 class="title">
                 Top Populer Courses
-            </h2>
+            </h3>
         </div>
+        <div class="row">
+            <div class="col-lg-4 mb-20">
+                <a href="course_Front_End_Development_React_JS.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/1.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Front End Development (React JS)</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 mb-20">
+                <a href="course_Front_End_Development_Angular_JS.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/2.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Front End Development (Angular JS)</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 mb-20">
+                <a href="course_Full_Stack_Development.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/3.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Full Stack Development</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Back_End_Development_with_Java.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/4.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Back End Development with Java</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Back_End_Development_With_PHP.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/5.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Back End Development With PHP </h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Back_End_Development_with_Node_JS.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Back End Development with Node JS</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Advance_Java.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Advance Java</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Data_Structure_and_algorithms.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Data Structure and algorithms</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_CC++.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">C/C++</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Spring_Boot.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Spring Boot</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Spring_MVC.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Spring MVC</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Spring_Framework.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Spring Framework</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--old Courses section ends-->
+
+
+<!-- Courses section starts-->
+<div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
+    <div class="container d-flex justify-content-between">
+      
 
         <div class="contentAcc">
-            <h2>INTRODUCTION TO JAVA</h2>
+            <h2>INTRODUCTION TO JAVA <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Why Java was Developed</li>
@@ -31,7 +191,7 @@
                 <li>Understanding Path Variable: Why Set Path</li>
             </ul>
 
-            <h2>CREATING FIRST JAVA PROGRAM</h2>
+            <h2>CREATING FIRST JAVA PROGRAM <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding Text Editors to Write Programs</li>
@@ -40,7 +200,7 @@
                 <li>How to run class file</li>
             </ul>
 
-            <h2>JAVA LANGUAGE FUNDAMENTALS</h2>
+            <h2>JAVA LANGUAGE FUNDAMENTALS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Identifiers</li>
@@ -55,7 +215,7 @@
                 <li>Type Casting</li>
             </ul>
 
-            <h2>OOP IMPLEMENTATION (PIE)</h2>
+            <h2>OOP IMPLEMENTATION (PIE) <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Why OOP</li>
@@ -88,7 +248,7 @@
                 <li>Association with Implementation</li>
             </ul>
 
-            <h2>PACKAGES</h2>
+            <h2>PACKAGES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding Packages</li>
@@ -97,7 +257,7 @@
                 <li>Access Modifiers</li>
             </ul>
 
-            <h2>NESTED TYPES</h2>
+            <h2>NESTED TYPES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>NESTED TYPES</li>
@@ -107,7 +267,7 @@
                 <li>Nested Interface</li>
             </ul>
 
-            <h2>ARRAYS</h2>
+            <h2>ARRAYS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>General Definition of Array</li>
@@ -120,7 +280,7 @@
                 <li>Operations on Arrays</li>
             </ul>
 
-            <h2>COMMAND LINE ARGUMENTS AND WRAPPER CLASSES</h2>
+            <h2>COMMAND LINE ARGUMENTS AND WRAPPER CLASSES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>How to read command line arguments</li>
@@ -129,7 +289,7 @@
                 <li>String representation of Primitives</li>
             </ul>
 
-            <h2>EXCEPTION HANDLING</h2>
+            <h2>EXCEPTION HANDLING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Types of Runtime Errors</li>
@@ -144,7 +304,7 @@
                 <li>Assertion</li>
             </ul>
 
-            <h2>WORKING WITH STRINGS</h2>
+            <h2>WORKING WITH STRINGS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>What is String</li>
@@ -157,7 +317,7 @@
                 <li>Difference between StringBuffer and StringBuilder</li>
             </ul>
 
-            <h2>SWING</h2>
+            <h2>SWING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Introduction to AWT</li>
@@ -183,7 +343,7 @@
                 <li>JMenubar</li>
             </ul>
 
-            <h2>MULTITHREADED PROGRAMMING</h2>
+            <h2>MULTITHREADED PROGRAMMING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Multitasking: Why Concurrent Execution</li>
@@ -198,7 +358,7 @@
                 <li>Deadlock</li>
             </ul>
 
-            <h2>I/O STREAMS</h2>
+            <h2>I/O STREAMS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>What is I/O</li>
@@ -211,7 +371,7 @@
                 <li>File Class and it&#39;s Methods</li>
             </ul>
 
-            <h2>SOCKET PROGRAMMING</h2>
+            <h2>SOCKET PROGRAMMING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding Fundamentals of a Network</li>
@@ -221,7 +381,7 @@
                 <li>URL,URLConnection,HttpURLConnection Classes</li>
             </ul>
 
-            <h2>REFLECTION</h2>
+            <h2>REFLECTION <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding the Need Of Reflection</li>
@@ -233,7 +393,7 @@
                 <li>Invoking Private Methods</li>
             </ul>
 
-            <h2>EXTENDED &amp; UTILITY CONCEPTS</h2>
+            <h2>EXTENDED &amp; UTILITY CONCEPTS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Generics</li>
@@ -248,7 +408,7 @@
                 <li>Java Modules</li>
             </ul>
 
-            <h2>COLLECTIONS FRAMEWORK</h2>
+            <h2>COLLECTIONS FRAMEWORK <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>What is Collection?</li>
@@ -272,7 +432,7 @@
                 <li>Hashtable, Properties</li>
             </ul>
 
-            <h2>DATE &amp; TIME API</h2>
+            <h2>DATE &amp; TIME API <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>java.util.Date</li>
@@ -280,7 +440,7 @@
                 <li>java.sql.Date</li>
             </ul>
 
-            <h2>JODA API</h2>
+            <h2>JODA API <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>java.time.LocalDate</li>
@@ -288,7 +448,7 @@
                 <li>java.time.LocalDateTime</li>
             </ul>
 
-            <h2>SYSTEM PROPERTIES &amp; INTERNATIONALIZATION (I18N)</h2>
+            <h2>SYSTEM PROPERTIES &amp; INTERNATIONALIZATION (I18N) <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding Locale</li>
@@ -299,9 +459,9 @@
                 <li>Displaying date in Hindi</li>
             </ul>
 
-            <h2>INTRODUCTION TO SQL (PROJECT BASED)</h2>
+            <h2>INTRODUCTION TO SQL (PROJECT BASED) <span class="down_arrow">&#8682;</span> </h2>
 
-            <h2>DATABASE PROGRAMMING USING JDBC</h2>
+            <h2>DATABASE PROGRAMMING USING JDBC <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Need Of JDBC</li>
@@ -313,7 +473,7 @@
                 <li>Metadata</li>
             </ul>
 
-            <h2>JAVA EE(JAVA PLATFORM ENTERPRISE EDITION)</h2>
+            <h2>JAVA EE(JAVA PLATFORM ENTERPRISE EDITION) <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Understanding the Concept of Java EE : JEE Specification</li>
@@ -341,7 +501,7 @@
                 </li>
             </ul>
 
-            <h2>JAVA SERVLET</h2>
+            <h2>JAVA SERVLET <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Introduction to web programming</li>
@@ -374,7 +534,7 @@
                 <li>Filtersc</li>
             </ul>
 
-            <h2>JAVA SERVER PAGES (JSP) &amp; JSTL</h2>
+            <h2>JAVA SERVER PAGES (JSP) &amp; JSTL <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>JSP Architecture</li>
@@ -386,7 +546,7 @@
                 <li>Expression Language</li>
             </ul>
 
-            <h2>PROJECT CLASSES</h2>
+            <h2>PROJECT CLASSES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Front End Coding</li>
@@ -405,7 +565,7 @@
                 <li>Project Hosting</li>
             </ul>
 
-            <h2>DESIGN PATTERN</h2>
+            <h2>DESIGN PATTERN <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Why Design Patterns&hellip;?</li>
@@ -416,7 +576,7 @@
                 <li>DAO Pattern</li>
             </ul>
 
-            <h2>JAVA MAIL API</h2>
+            <h2>JAVA MAIL API <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Email System and Protocols</li>
@@ -424,14 +584,14 @@
                 <li>Handling Attachments</li>
             </ul>
 
-            <h2>INTRODUCTION TO DISTRIBUTED PROGRAMMING</h2>
+            <h2>INTRODUCTION TO DISTRIBUTED PROGRAMMING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>RMI</li>
                 <li>Web Services</li>
             </ul>
 
-            <h2>INTRODUCTION TO RESTFULL SERVICES</h2>
+            <h2>INTRODUCTION TO RESTFULL SERVICES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>@PathParam</li>
@@ -441,11 +601,11 @@
                 <li>@DefaultValue</li>
             </ul>
 
-            <h2>OVERVIEW OF JPA FRAMEWORK</h2>
+            <h2>OVERVIEW OF JPA FRAMEWORK <span class="down_arrow">&#8682;</span> </h2>
 
             <h4 class="mt-4">SPRING</h4>
 
-            <h2>SPRING</h2>
+            <h2>SPRING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>What is Spring?</li>
@@ -454,7 +614,7 @@
                 <li>Applying aspect-oriented programming</li>
             </ul>
 
-            <h2>BASIC BEAN WIRING</h2>
+            <h2>BASIC BEAN WIRING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Containing your Bean</li>
@@ -464,7 +624,7 @@
                 <li>Controlling bean creation</li>
             </ul>
 
-            <h2>ADVANCED BEAN WIRING</h2>
+            <h2>ADVANCED BEAN WIRING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Declaring parent and Child Bean</li>
@@ -473,7 +633,7 @@
                 <li>Registering Custom property editors</li>
             </ul>
 
-            <h2>ADVISING BEANS</h2>
+            <h2>ADVISING BEANS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Introducing AOP</li>
@@ -484,7 +644,7 @@
                 <li>Autoproxying</li>
             </ul>
 
-            <h2>HITTING THE DATABASE</h2>
+            <h2>HITTING THE DATABASE <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Learning spring&#39;s data Access Philosphy</li>
@@ -496,7 +656,7 @@
                 <li>Caching</li>
             </ul>
 
-            <h2>INTRODUCTION TO MVC</h2>
+            <h2>INTRODUCTION TO MVC <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Define MVC</li>
@@ -505,7 +665,7 @@
                 <li>Spring Controller</li>
             </ul>
 
-            <h2>MAVEN DEPLOYMENT</h2>
+            <h2>MAVEN DEPLOYMENT <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Maven Configuration</li>
@@ -513,7 +673,7 @@
                 <li>Various Maven Command</li>
             </ul>
 
-            <h2>SPRING REST API</h2>
+            <h2>SPRING REST API <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Creating Rest</li>
@@ -521,7 +681,7 @@
                 <li>Calling on Client</li>
             </ul>
 
-            <h2>BUILDING CONTRACT-FIRST WEB SERVICES IN SPRING</h2>
+            <h2>BUILDING CONTRACT-FIRST WEB SERVICES IN SPRING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Introducing Spring-WS</li>
@@ -531,9 +691,9 @@
                 <li>Consuming Spring-WS Web services</li>
             </ul>
 
-            <h2>SPRING OBJECT/XML MAPPER</h2>
+            <h2>SPRING OBJECT/XML MAPPER <span class="down_arrow">&#8682;</span> </h2>
 
-            <h2>SPRING BOOT</h2>
+            <h2>SPRING BOOT <span class="down_arrow">&#8682;</span> </h2>
 
             <h4 class="mt-4">HIBERNATE</h4>
 
@@ -548,7 +708,7 @@
                 </li>
             </ul>
 
-            <h2>INTRODUCTION TO ORM</h2>
+            <h2>INTRODUCTION TO ORM <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Need of ORM</li>
@@ -556,7 +716,7 @@
                 <li>ORM Implementation</li>
             </ul>
 
-            <h2>INTRODUCTION TO HIBERNATE</h2>
+            <h2>INTRODUCTION TO HIBERNATE <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Hibernate Architecture</li>
@@ -567,7 +727,7 @@
                 <li>A Servlet&ndash;Based Hibernate application</li>
             </ul>
 
-            <h2>CREATING PERSISTING CLASSES</h2>
+            <h2>CREATING PERSISTING CLASSES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Mapping a basic Java Class</li>
@@ -578,7 +738,7 @@
                 <li>Mapping a class using Versioning /Timestamps</li>
             </ul>
 
-            <h2>MAPPING INHERITENCE WITH JAVA CLASSES</h2>
+            <h2>MAPPING INHERITENCE WITH JAVA CLASSES <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Table-Per &ndash;class Hierarchy Mapping</li>
@@ -587,7 +747,7 @@
                 <li>Persistence interfaces</li>
             </ul>
 
-            <h2>WORKING WITH COLLECTIONS</h2>
+            <h2>WORKING WITH COLLECTIONS <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Associations</li>
@@ -599,7 +759,7 @@
                 <li>Mapping a Bidirectional Association</li>
             </ul>
 
-            <h2>SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE</h2>
+            <h2>SCALAR QUERIES AND HIBERNATE QUERY LANGUAGE <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Queries</li>
@@ -608,7 +768,7 @@
                 <li>Hibernate Queries language</li>
             </ul>
 
-            <h2>HIBERNATE TRANSACTIONS AND LOCKING</h2>
+            <h2>HIBERNATE TRANSACTIONS AND LOCKING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>Configuration</li>
@@ -619,7 +779,7 @@
                 <li>Locking</li>
             </ul>
 
-            <h2>HIBERNATE CACHING</h2>
+            <h2>HIBERNATE CACHING <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
                 <li>How caching improves performence</li>
@@ -628,24 +788,45 @@
             </ul>
         </div>
 
+        <div class="q_form">
+            <form action="">
+
+                <h3 class="text-center">Have A Query?</h3>
+                <input type="text" class="form-control my-3" placeholder="Name">
+                <input type="email" class="form-control my-3" placeholder="Email">
+                <input type="text" class="form-control my-3" placeholder="Contact Number">
+                <button class=" my-3">SUBMIT</button>
+            </form>
+            <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
+        </div>
+
     </div>
 </div>
 <!-- Courses section ends-->
 
 
 <script>
-    var acc1 = document.getElementsByClassName("contentAcc");
+    // var acc1 = document.getElementsByClassName("contentAcc");
     var acc = document.getElementsByTagName("h2");
     var i;
-
+    
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var panel = this.nextElementSibling;
+            
+            var arrow = this.firstElementChild;
+            console.log(panel);
+            
+            // console.log(arrow)
             if (panel.style.display === "block") {
                 panel.style.display = "none";
+                arrow.style.transform = "rotate(180deg)";
+                
             } else {
                 panel.style.display = "block";
+                arrow.style.transform = "rotate(0deg)";
+               
             }
         });
     }
