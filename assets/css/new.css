@@ -136,13 +136,13 @@
 .contentAcc ul li {
 	border-bottom: 1px dotted #dadada;
 	padding-top: 10px;
-	font-size: 11px;
+	font-size: 12px;
 
 }
 
 .contentAcc h2 {
 	font-weight: 500;
-	font-size: 11px;
+	font-size: 13px;
 	/* box-shadow: 0 -10px 30px -20px rgb(148, 148, 148); */
 }
 

@@ -27,7 +27,7 @@
         <p>Our trainers are <strong>Java Experts &amp; Java Professionals</strong> with over (X) years of practical experience. It doesn&rsquo;t matter if you are a beginner or want to improve your existing knowledge of Java. Our trainers will mentor you to become the best in your field. <strong>Ducat Noida</strong> has been a leading training institute for the past twenty years. We prepare you for interviews and provide 100% assistance in job placement with leading tech companies of India. Our ability to provide practical training to our students has made us the <strong>Best Java training institute in Noida, Ghaziabad, Gurgaon, Gr. Noida, Faridabad</strong>.</p>
     </div>
 
-    <!-- <div class="cr_query">
+    <div class="cr_query">
         <div class="q_form" style="width: 100%;">
             <form action="">
 
@@ -39,7 +39,7 @@
             </form>
             <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
         </div>
-    </div> -->
+    </div>
 
 </div>
 
@@ -662,7 +662,7 @@
             </ul>
         </div>
 
-        <div class="q_form">
+        <!-- <div class="q_form">
             <form action="">
 
                 <h3 class="text-center">Have A Query?</h3>
@@ -671,8 +671,8 @@
                 <input type="text" class="form-control my-3" placeholder="Contact Number">
                 <button class=" my-3">SUBMIT</button>
             </form>
-            <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-        </div>
+            <textarea type="text" class="form-control" placeholder="Query Here" >
+        </div> -->
 
     </div>
 </div>
