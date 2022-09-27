@@ -147,7 +147,7 @@
 }
 
 .contentAcc {
-	width: 60%;
+	width: 45%;
 }
 
 .q_form {
@@ -195,12 +195,13 @@
 }
 
 .course_detail{
-	padding: 50px 100px;
+	padding: 30px 30px;
 	display: flex;
+	justify-content: space-between;
 }
 
 .cr_detail_sec{
-	width: 70%;
+	width: 65%;
 }
 
 .cr_query{
